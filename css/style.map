@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"body {\n  margin: 0;\n  width: 100%;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\n}\n\n*, *::before, *::after {\n  box-sizing: border-box;\n}\n\ninput, button {\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\n}\n\n.form {\n  width: 90%;\n  margin: 2rem auto;\n  input, textarea, button {\n    font-size: 1rem;\n    display: block;\n    width: 100%;\n    margin: 0 0 1.5rem 0;\n    padding: 1rem 0 1rem .5rem;\n    border: none;\n    border-radius: .25rem;\n  }\n  input, textarea {\n    box-shadow: inset 0 2px 6px rgba(0,0,0,0.3);\n  }\n  label {\n    width: 100%;\n    display: block;\n    padding: 1rem 0;\n  }\n  button {\n    background-color: #62f591;\n    color: #444;\n  }\n  .error {\n    margin: 1rem 0;\n  }\n}"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,CAAE;EACV,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,2HAA4H;CAC1I;;;AAED,AAAA,CAAC,EAAE,AAAC,CAAA,AAAA,QAAQ,EAAE,AAAC,CAAA,AAAA,OAAO,CAAC;EACrB,UAAU,EAAE,UAAW;CACxB;;;AAED,AAAA,KAAK,EAAE,AAAA,MAAM,CAAC;EACZ,WAAW,EAAE,2HAA4H;CAC1I;;;AAED,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,GAAI;EACX,MAAM,EAAE,SAAU;CAyBnB;;;AA3BD,AAGE,KAHG,CAGH,KAAK,EAHP,AAGS,KAHJ,CAGI,QAAQ,EAHjB,AAGmB,KAHd,CAGc,MAAM,CAAC;EACtB,SAAS,EAAE,IAAK;EAChB,OAAO,EAAE,KAAM;EACf,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,YAAa;EACrB,OAAO,EAAE,iBAAkB;EAC3B,MAAM,EAAE,IAAK;EACb,aAAa,EAAE,MAAO;CACvB;;;AAXH,AAYE,KAZG,CAYH,KAAK,EAZP,AAYS,KAZJ,CAYI,QAAQ,CAAC;EACd,UAAU,EAAE,KAAK,CAAC,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,kBAAI;CACjC;;;AAdH,AAeE,KAfG,CAeH,KAAK,CAAC;EACJ,KAAK,EAAE,IAAK;EACZ,OAAO,EAAE,KAAM;EACf,OAAO,EAAE,MAAO;CACjB;;;AAnBH,AAoBE,KApBG,CAoBH,MAAM,CAAC;EACL,gBAAgB,EAAE,OAAQ;EAC1B,KAAK,EAAE,IAAK;CACb;;;AAvBH,AAwBE,KAxBG,CAwBH,MAAM,CAAC;EACL,MAAM,EAAE,MAAO;CAChB",
+	"names": []
+}
